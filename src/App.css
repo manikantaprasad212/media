@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+.mainHeading{
+  background-color: rgb(86, 11, 6);
+  color: goldenrod;
+}
+.video{
+  width:500px;
+  height:350px;
+  border: 2px solid orange;
+}
+  
+
